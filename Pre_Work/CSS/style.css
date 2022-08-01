@@ -1,0 +1,93 @@
+
+	title{
+		position: fixed;
+	}
+	h2{
+		color: green;
+		font-family: fantasy;
+		text-decoration: underline;
+	}
+	h3{
+		color: green;
+		font-family: fantasy;
+		text-decoration: underline;
+	}
+
+	}
+	p{
+		color: deepskyblue;
+		font-size: 17px;
+	}
+	#hobbies{
+		color: darkred;
+		text-align: center;
+	}
+	body{
+		background-color: lightgray;
+	}
+	ul{
+		color: yellowgreen;
+	}
+	tr{
+		color: royalblue;
+	}
+	form{
+		padding: 15px;
+		background-color: indianred;
+		font-style: oblique;
+		border-style: solid;
+		font-weight: 900px;;
+	}
+	input[type=button]:hover{
+		color: navy;
+		background-color: rgb(0,150,0);
+		padding: 5px;
+		transition: 1s;
+	}
+	input[type=text]:hover {
+		background-color: darkgray;
+		color: black;
+		width: 100%;
+		transition: 2s;
+}
+	input[type=text]:focus {
+		background-color: darkgray;
+		color: black;
+		width: 100%;
+		transition: 2s;
+	}
+	div {position: relative;}
+
+	.link {
+		text-align: center;
+		font-size: 50px;
+	}
+	#main {
+		text-align: center;
+		width: 400px;
+		margin: 0 auto;
+	}
+#youtube2 {
+		float: left;
+		object-position: center;
+		width: 500px;
+		height: 500px;
+		margin: 1px;
+	}
+	#youtube1 {
+		float: right;
+		object-position: left;
+		width: 500px;
+		height: 500px;
+		margin: 1px;
+	}
+	.centerfont {
+		text-align: center;
+	}
+	#thanks {
+		text-align: center;
+	}
+	#imglocation {
+		float: left;
+	}
+	
